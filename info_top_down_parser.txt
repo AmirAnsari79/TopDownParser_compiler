@@ -1,0 +1,16 @@
+S->aS1S2b|c
+
+For grammar above, write a program that takes an input string and says whether it has a syntax error. 
+
+
+if see a:
+	check;
+	S1()
+	S2()
+
+	if see c in S1 or S2:
+		check;
+		return  
+if see b:
+	check;
+	return
